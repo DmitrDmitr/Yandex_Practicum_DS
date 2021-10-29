@@ -54,7 +54,7 @@
 Все проекты выполнены в [Jupiter Notebook](https://jupyter.org/install.html).
 
 ***Формат файла проекта***:
-<font color = # A52A2A size = 4> ***Формат файла проекта***: </font>
+
 .ipynb
 
 ***Библиотеки и методы***:
