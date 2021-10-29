@@ -53,7 +53,7 @@
 
 Все проекты выполнены в [Jupiter Notebook](https://jupyter.org/install.html).
 
-***Формат файлов проекта***:
+***Формат файла проекта***:
 
 .ipynb
 
