@@ -16,17 +16,10 @@
  - Признаки умножают на обратимую матрицу. Изменится ли качество линейной регрессии?
     - a. Изменится. Приведсти примеры матриц.
     - b. Не изменится. Указать, как связаны параметры линейной регрессии в исходной задаче и в преобразованной.
-5. Анализ недоступных признаков.
-6. Предобработка данных.
-7. Анализ данных
-  - изменение концентрация металлов (Au, Ag, Pb) на различных этапах очистки.
-  - сравнение распределения размеров гранул сырья на обучающей и тестовой выборках.
-  - исследование суммарной концентрации всех веществ на разных стадиях.
-8. Построение модели.
-  - функция для вычисления итоговой sMAPE.
-  - обучение разных моделей и оценка их качества кросс-валидацией.
-  - выбор лучшей модели и её проверка на тестовой выборке.
-9. Общий вывод.
+5. Определение алгоритма преобразования данных для решения задачи. Обоснование, почему качество линейной регрессии не поменяется.
+6. Программирование алгоритма, с помощью матричных операций.
+7. Проверка, что качество линейной регрессии из sklearn не отличается до и после преобразования. Применение метрики *R2*.
+8. Общий вывод.
 
 ## Используемые инструменты и библиотеки
 
@@ -43,19 +36,9 @@
 ```python
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import statistics
 import warnings
 warnings.filterwarnings('ignore')
 
-from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error, accuracy_score
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import cross_val_score
-from matplotlib.pyplot import show
-from scipy.stats import norm
-from scipy import stats
+from sklearn.metrics import r2_score
 ```
