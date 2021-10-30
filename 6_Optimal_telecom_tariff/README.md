@@ -37,6 +37,4 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.dummy import DummyClassifier
 import warnings
 warnings.filterwarnings('ignore')
-
-
 ```
