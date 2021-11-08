@@ -23,7 +23,7 @@
 5. [Определение факторов, определяющих коммерческую успешность компьютерных игр;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/5_Games_commercial_success)
 6. [Рекомендательная модель оптимального тарифа телеком-оператора;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/6_Optimal_telecom_tariff)
 7. [Модель оттока клиентов банка;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/7_Bank_churn)
-8. Выбор коммерчески успешной локации для бурения нефтяной скважины;
+8. [Выбор коммерчески успешной локации для бурения нефтяной скважины;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/8_Сost-effective_oil_well)
 9. Модель машинного обучения для золотодобывающей компании;
 10. Шифрование персональных данных клиентов;
 11. Модель определения рыночной стоимости автомобиля;
