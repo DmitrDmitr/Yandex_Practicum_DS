@@ -28,9 +28,9 @@
 10. [Шифрование персональных данных клиентов;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/10_Data_encryption)
 11. [Модель определения рыночной стоимости автомобиля;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/11_Auto_price)
 12. [Модель прогнозирования заказов такси;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/12_Taxi_orders)
-13. Модель классификации пользовательских комментариев;
-14. Модель определения возраста человека по фотографии;
-15. Модель оттока клиентов телеком-оператора.
+13. [Модель классификации пользовательских комментариев;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/13_Comments_classification)
+14. [Модель определения возраста человека по фотографии;]()
+15. [Модель оттока клиентов телеком-оператора.]()
 
 ## Используемые инструменты и библиотеки
 
