@@ -30,7 +30,7 @@
 12. [Модель прогнозирования заказов такси;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/12_Taxi_orders)
 13. [Модель классификации пользовательских комментариев;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/13_Comments_classification)
 14. [Модель определения возраста человека по фотографии;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/14_Age_by_photo)
-15. [Модель оттока клиентов телеком-оператора.]()
+15. [Модель оттока клиентов телеком-оператора.](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/15_Telecom_churn)
 
 ## Используемые инструменты и библиотеки
 
