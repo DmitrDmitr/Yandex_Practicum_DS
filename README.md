@@ -26,7 +26,7 @@
 8. [Выбор коммерчески успешной локации для бурения нефтяной скважины;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/8_Сost-effective_oil_well)
 9. [Модель машинного обучения для золотодобывающей компании;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/9_Gold_mining_company)
 10. [Шифрование персональных данных клиентов;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/10_Data_encryption)
-11. Модель определения рыночной стоимости автомобиля;
+11. [Модель определения рыночной стоимости автомобиля;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/11_Auto_price)
 12. Модель прогнозирования заказов такси;
 13. Модель классификации пользовательских комментариев;
 14. Модель определения возраста человека по фотографии;
