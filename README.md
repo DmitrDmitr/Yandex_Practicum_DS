@@ -20,7 +20,7 @@
 2. [Исследование надежности заёмщиков банка;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/2_Borrower's_reliability)
 3. [Определение параметров, влияющих на рыночную стоимость объектов недвижимости;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/3_Real_estate_price)
 4. [Определение наиболее перспективного тарифа телеком-оператора;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/4_Telecom_tariff)
-5. Определение факторов, определяющих коммерческую успешность компьютерных игр;
+5. [Определение факторов, определяющих коммерческую успешность компьютерных игр;](https://github.com/DmitrDmitr/Yandex_Practicum_DS/tree/main/5_Games_commercial_success)
 6. Рекомендательная модель оптимального тарифа телеком-оператора;
 7. Модель оттока клиентов банка;
 8. Выбор коммерчески успешной локации для бурения нефтяной скважины;
